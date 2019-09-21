@@ -189,6 +189,8 @@ $config['auth_override_class_method_http']['login']['*']['get'] = 'none';
 $config['auth_override_class_method_http']['pages']['*']['get'] = 'none';
 $config['auth_override_class_method_http']['dosen']['*']['get'] = 'none';
 $config['auth_override_class_method_http']['expires']['*']['get'] = 'none';
+$config['auth_override_class_method_http']['komunitas']['*']['get'] = 'none';
+$config['auth_override_class_method_http']['diktat']['*']['get'] = 'none';
 
 
 // ---Uncomment list line for the wildard unit test
